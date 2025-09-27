@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ravindu Maleesha  
 
 🎓 Undergraduate **BSc (Hons) Full Stack Software Engineering** student  
-💻 Passionate about **Web & Mobile App Development**  
+💻 Passionate about **Full Stack Software Developer**  
 🚀 Skilled in **React Native, Java, PHP, Node.js, Spring Boot, Android, Laravel, MySQL, HTML, CSS, Tailwind, Bootstrap**  
 
 ---
@@ -30,5 +30,5 @@
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravindu-maleesha-598275256/)  
-- 📧 [Email](mailto:ravindumaleesha077@gmail.com)  
+- 📧 [Email](ravindumaleesha077@gmail.com)  
 - 📱 WhatsApp: [+94 76 983 1282]  
