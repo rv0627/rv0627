@@ -1,16 +1,16 @@
-# Hi there 👋, I'm T.G. Ravindu Maleesha  
+# Hi there 👋, I'm Ravindu Maleesha  
 
 🎓 Undergraduate **BSc (Hons) Full Stack Software Engineering** student  
 💻 Passionate about **Web & Mobile App Development**  
-🚀 Skilled in **React Native, Java, PHP, Node.js, Spring Boot, Android, Laravel, MySQL**  
+🚀 Skilled in **React Native, Java, PHP, Node.js, Spring Boot, Android, Laravel, MySQL, HTML, CSS, Tailwind, Bootstrap**  
 
 ---
 
 ## 🔧 Technologies & Tools
-- **Frontend:** React, React Native, HTML, CSS  
-- **Backend:** Spring Boot, Node.js, PHP, Laravel  
-- **Databases:** MySQL  
-- **Mobile Development:** Android, React Native  
+- **Frontend:** React, React Native, HTML, CSS, Tailwind, Bootsrap  
+- **Backend:** Spring Boot, Node.js, PHP, Laravel, JavaScript  
+- **Databases:** MySQL, MongoDB  
+- **Mobile Development:** Android, React Native, Expo  
 
 ---
 
@@ -30,5 +30,5 @@
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravindu-maleesha-598275256/)  
-- 📧 [Email](mailto:ravindumaleesha.k@gmail.com)  
-- 📱 WhatsApp: [+94 71 XXX XXXX]  
+- 📧 [Email](mailto:ravindumaleesha077@gmail.com)  
+- 📱 WhatsApp: [+94 76 983 1282]  
