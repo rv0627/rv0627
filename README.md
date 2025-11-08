@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,mongodb,java,python,php,spring,laravel,mysql,android,html,css,tailwind,bootstrap,js,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,mongodb,python,java,php,spring,laravel,mysql,android,html,css,tailwind,bootstrap,js,git" />
 </p>
 
 ---
